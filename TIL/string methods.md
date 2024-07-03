@@ -121,11 +121,11 @@ a.substr(-4,2); // "rt"
 ### str.trim()
 
 - **앞 뒤 공백 제거**
-  ![alt text](image.png)
+  ![alt text](imgs/stringImage1.png)
 
 ---
 
-## ![alt text](image-1.png)
+## ![alt text](imgs/stringImage2.png)
 
 ### 예제
 

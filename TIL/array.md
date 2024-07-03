@@ -29,8 +29,8 @@ let arr = [1,2,3,4,5];
 arr.splice(1,3,100,200); // [1,100,200,5]
 ```
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](imgs/arrayImage-4.png)
+![alt text](imgs/arrayImage-1.png)
 
 ---
 
@@ -82,7 +82,7 @@ arr.forEach((name, index) => {
 ### arr.indexOf / arr.lastIndexOf
 
 - lastIndesOf : 뒤에서부터 탐색
-  ![alt text](image-3.png)
+  ![alt text](imgs/arrayImage-3.png)
 
 ### arr.includes()
 
