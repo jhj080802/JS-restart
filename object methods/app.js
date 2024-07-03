@@ -31,8 +31,8 @@
 // console.log(user2);
 
 const user = {
-    name: "mike",
-    age: 30,
+  name: "mike",
+  age: 30,
 };
 
 //{}: 초기 값 (빈값)
@@ -60,9 +60,9 @@ const entries = Object.entries(user);
 console.log(entries);
 
 let arr = [
-    // [key, value]
-    ["mon", "월"],
-    ["tue", "화"],
+  // [key, value]
+  ["mon", "월"],
+  ["tue", "화"],
 ];
 
 const fromEntries = Object.fromEntries(arr);
