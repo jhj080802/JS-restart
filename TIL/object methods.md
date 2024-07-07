@@ -29,11 +29,11 @@ console.log(obj);
 
 ---
 
-## 복사
+## assign - 복사
 
 #### 잘못된 방식
 
--   user2를 변경하면 user도 변경 됨 = 하나의 객체로 봄
+- user2를 변경하면 user도 변경 됨 = 하나의 객체로 봄
 
 ```
 const user = {
@@ -49,8 +49,8 @@ console.log(user2);
 
 ### 올바른 방식 - assign
 
--   {}: 초기 값 (빈값)
--   user 가 {}에 들어감
+- {}: 초기 값 (빈값)
+- user 가 {}에 들어감
 
 ```
 const user2 = Object.assign({}, user);
