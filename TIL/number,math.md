@@ -125,32 +125,32 @@ parseFloat(padding); // 18.5
 -   0 ~ 1 사이무작위 숫자 생성
 -   원하는 범위에서 무작위 숫자 생성하기
 -   0이 나올 수 도 있기 때문에 **1을 더함**
-    ![alt text](image.png)
+    ![alt text](imgs/math-1.png)
 
 ---
 
 ## Math.max(), Math.min()
 
 -   괄호 안 인수들 중 **최대값**, **최소값**
-    ![alt text](image-1.png)
+    ![alt text](imgs/math-2.png)
 
 ---
 
 ## Math.abs()
 
 -   **절대값**
-    ![alt text](image-2.png)
+    ![alt text](imgs/math-3.png)
 
 ---
 
 ## Math.pow(n,m)
 
 -   **n의 m제곱**
-    ![alt text](image-3.png)
+    ![alt text](imgs/math-4.png)
 
 ---
 
 ## Math.sqrt()
 
 -   **제곱근**
-    ![alt text](image-4.png)
+    ![alt text](imgs/math-5.png)
